@@ -1,0 +1,33 @@
+header {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 35vh;
+  color: rgb(33 ,37, 41);
+}
+header h1 {
+  margin: 0;
+  font-size: 4rem;
+  color: inherit;
+}
+
+header p {
+  color: inherit;
+  font-style: italic;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+header a {
+  cursor: pointer;
+  box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+  font-weight: 700;
+  background-color: #1d809f!important;
+  border-color: #1d809f!important;
+  color: #fff!important;
+  padding: 1.25rem 2.5rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  text-decoration: none;
+  display: inline-block;
+}
